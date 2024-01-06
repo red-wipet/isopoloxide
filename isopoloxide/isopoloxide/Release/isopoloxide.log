@@ -1,0 +1,21 @@
+﻿  isopoloxide.cpp
+C:\Users\mrsuperbuddy\source\repos\isopoloxide\isopoloxide\isopoloxide.cpp(174,7): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\isopoloxide\isopoloxide\isopoloxide.cpp(184,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\isopoloxide\isopoloxide\isopoloxide.cpp(189,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\isopoloxide\isopoloxide\isopoloxide.cpp(203,6): warning C4101: auStack612: неиспользованная локальная переменная
+C:\Users\mrsuperbuddy\source\repos\isopoloxide\isopoloxide\isopoloxide.cpp(299,56): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\mrsuperbuddy\source\repos\isopoloxide\isopoloxide\isopoloxide.cpp(541,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\isopoloxide\isopoloxide\isopoloxide.cpp(792,24): warning C4129: T: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\isopoloxide\isopoloxide\isopoloxide.cpp(792,24): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\isopoloxide\isopoloxide\isopoloxide.cpp(792,24): warning C4129: C: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\isopoloxide\isopoloxide\isopoloxide.cpp(792,24): warning C4129: P: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\isopoloxide\isopoloxide\isopoloxide.cpp(798,25): warning C4129: T: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\isopoloxide\isopoloxide\isopoloxide.cpp(798,25): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\isopoloxide\isopoloxide\isopoloxide.cpp(798,25): warning C4129: C: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\isopoloxide\isopoloxide\isopoloxide.cpp(806,18): warning C4566: символ, представленный универсальным именем символа "\u00EB", невозможно представить в текущей кодовой странице (1251)
+  Создание кода
+  1 of 19 functions ( 5.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  isopoloxide.vcxproj -> C:\Users\mrsuperbuddy\source\repos\isopoloxide\Release\isopoloxide.exe

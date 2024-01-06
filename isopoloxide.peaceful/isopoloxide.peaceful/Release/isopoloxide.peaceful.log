@@ -1,0 +1,14 @@
+﻿  isopoloxide.peaceful.cpp
+C:\Users\mrsuperbuddy\source\repos\isopoloxide.peaceful\isopoloxide.peaceful\isopoloxide.peaceful.cpp(174,7): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\isopoloxide.peaceful\isopoloxide.peaceful\isopoloxide.peaceful.cpp(184,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\isopoloxide.peaceful\isopoloxide.peaceful\isopoloxide.peaceful.cpp(189,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\isopoloxide.peaceful\isopoloxide.peaceful\isopoloxide.peaceful.cpp(235,56): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\mrsuperbuddy\source\repos\isopoloxide.peaceful\isopoloxide.peaceful\isopoloxide.peaceful.cpp(477,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\isopoloxide.peaceful\isopoloxide.peaceful\isopoloxide.peaceful.cpp(727,24): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\isopoloxide.peaceful\isopoloxide.peaceful\isopoloxide.peaceful.cpp(727,24): warning C4129: B: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\isopoloxide.peaceful\isopoloxide.peaceful\isopoloxide.peaceful.cpp(733,25): warning C4129: N: неизвестная escape-последовательность
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  isopoloxide.peaceful.vcxproj -> C:\Users\mrsuperbuddy\source\repos\isopoloxide.peaceful\Release\isopoloxide.peaceful.exe
